@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/get_days_engaged_in_week.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_activities_before_install.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_completion_rates.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_performance_by_tenure.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_retention_rate.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_rfm_model.sql" dialect="BigQuery" />
+    <file url="file://$PROJECT_DIR$/Exercise 3/models/user_win_share.sql" dialect="BigQuery" />
+  </component>
+</project>
